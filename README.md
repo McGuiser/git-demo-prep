@@ -1,1 +1,1 @@
-A git demonstration
+A git demonstration.
